@@ -3,3 +3,8 @@ E:\John\Visual Studio 2008\Projects\travelisurance\travelInsurance\bin\Debug\tra
 E:\John\Visual Studio 2008\Projects\travelisurance\travelInsurance\bin\Debug\travelInsurance.pdb
 E:\John\Visual Studio 2008\Projects\travelisurance\travelInsurance\obj\Debug\travelInsurance.dll
 E:\John\Visual Studio 2008\Projects\travelisurance\travelInsurance\obj\Debug\travelInsurance.pdb
+C:\Code\Community\TravelInsurance\travelInsurance\bin\Debug\travelInsurance.dll
+C:\Code\Community\TravelInsurance\travelInsurance\bin\Debug\travelInsurance.pdb
+C:\Code\Community\TravelInsurance\travelInsurance\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Community\TravelInsurance\travelInsurance\obj\Debug\travelInsurance.dll
+C:\Code\Community\TravelInsurance\travelInsurance\obj\Debug\travelInsurance.pdb

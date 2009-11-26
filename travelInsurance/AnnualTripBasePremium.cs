@@ -4,7 +4,7 @@ namespace travelInsurance
 {
     public class AnnualTripBasePremium : BasePremium
     {
-        public override int GetPremium()
+        public override double GetPremium()
         {
             return 80;
         }

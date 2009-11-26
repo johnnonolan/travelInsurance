@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="AnnualTripBasePremium.cs" />
     <Compile Include="BasePremium.cs" />
+    <Compile Include="DoubleExtensions.cs" />
     <Compile Include="IPolicyType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SingleTripBasePremium.cs" />

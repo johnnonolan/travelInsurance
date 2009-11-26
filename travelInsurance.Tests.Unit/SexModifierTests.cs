@@ -12,31 +12,13 @@ namespace travelInsurance
 
             Assert.AreEqual(1.2,sexModifier.GetRating());
         }
-    }
 
-    public class SexModifier
-    {
-        private Sex _sex;
-
-        public SexModifier(Sex sex)
+        [Test]
+        public void GetRating_IsFemale_ReturnsZeroPointNine()
         {
-            _sex = sex;
-        }
+            var sexModifer = new SexModifier(SexModifier.Sex.Female);
 
-        public enum Sex
-        {
-            Male,
-            Female
-        } ;
-
-        public double GetRating()
-        {
-            if(_sex == Sex.Male)
-            {
-                return 1.2;
-            }
-
-            return -1;
+            Assert.AreEqual(0.9, sexModifer.GetRating());
         }
     }
 }
